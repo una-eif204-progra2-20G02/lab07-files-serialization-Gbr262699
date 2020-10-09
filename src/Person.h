@@ -49,7 +49,7 @@ public:
 
 };
 
-};
+
 
 
 #endif //MY_PROJECT_NAME_PERSON_H
