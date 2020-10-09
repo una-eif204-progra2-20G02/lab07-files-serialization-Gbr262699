@@ -1,6 +1,3 @@
-//
-// Created by Gaston on 9/10/2020.
-//
 
 #ifndef MY_PROJECT_NAME_PERSONVEC_H
 #define MY_PROJECT_NAME_PERSONVEC_H
